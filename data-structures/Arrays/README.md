@@ -35,7 +35,3 @@ When the array becomes full, its capacity is doubled and the existing elements a
 | `reserve()`   | O(n)           |
 | `clear()`     | O(1)           |
 
-
-## Purpose
-
-This implementation was created to practice dynamic arrays, templates, pointers, memory management, and time complexity.
