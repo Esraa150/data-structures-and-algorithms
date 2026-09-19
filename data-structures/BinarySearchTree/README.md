@@ -15,7 +15,7 @@ A simple templated Binary Search Tree implementation in C++.
 * Preorder, Inorder, and Postorder traversals
 * Duplicate values are ignored
 
-## Structurefg
+## Structure
 
 Each node contains:
 
